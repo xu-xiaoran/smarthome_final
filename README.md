@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # smarthome2.0
 2025-春 数据库原理期末项目
 =======
@@ -73,4 +72,7 @@ pip install -r requirements.txt
 
 # 运行 FastAPI 应用
 uvicorn app.main:app --reload
->>>>>>> a17a184 (重新上传项目代码，清空旧记录)
+```
+
+出于隐私保护，未上传环境配置。
+
