@@ -122,4 +122,12 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 ````
 
-由于本项目环境中包含OPENAI密钥等敏感信息，故未上传。
+由于本项目环境中包含OPENAI密钥等敏感信息，故未直接上传。可按下述模板自行配置项目环境：
+```bash
+DB_USER=smart_user
+DB_PASSWORD=****  #Your own password
+DB_HOST=localhost
+DB_PORT=5432
+DB_NAME=smart_home_db
+OPENAI_API_KEY=*** #Your openai key
+````
