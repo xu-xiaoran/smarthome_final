@@ -122,8 +122,4 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 ````
 
----
-
-## 🙌 致谢
-
-本项目由徐潇然、彭诗涵共同开发完成，感谢陈中普老师在课程中的悉心指导。
+由于本项目环境中包含OPENAI密钥等敏感信息，故未上传。
