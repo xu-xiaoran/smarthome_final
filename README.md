@@ -131,3 +131,9 @@ DB_PORT=5432
 DB_NAME=smart_home_db
 OPENAI_API_KEY=*** #Your openai key
 ````
+---
+
+## 🙌 致谢
+
+本项目由徐潇然、彭诗涵共同开发完成，感谢陈中普老师在课程中的悉心指导。
+
